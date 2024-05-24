@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Testing frameworks (if applicable)
+coverage/
+__tests__/
+
+# Build output (if applicable)
+dist/
+
+# Editor temporary or backup files
+*.swp
+*.swo
+
+# IDE or OS specific files
+Thumbs.db
+.DS_Store

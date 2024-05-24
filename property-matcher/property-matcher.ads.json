@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6650fe31cd7178ddc2738121"
+  },
+  "propertyType": "HOUSE",
+  "area": 100,
+  "price": 2000,
+  "city": "alexandria",
+  "district": "d1",
+  "description": "asdas",
+  "user": {
+    "$oid": "6650fd1c17ba107be4e13287"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650fe36cd7178ddc2738124"
+  },
+  "propertyType": "APARTMENT",
+  "area": 100,
+  "price": 2000,
+  "city": "alexandria",
+  "district": "d1",
+  "description": "asdas",
+  "user": {
+    "$oid": "6650fd1c17ba107be4e13287"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650fe4acd7178ddc2738127"
+  },
+  "propertyType": "APARTMENT",
+  "area": 200,
+  "price": 1800,
+  "city": "alexandria",
+  "district": "d1",
+  "description": "asdas",
+  "user": {
+    "$oid": "6650fd1c17ba107be4e13287"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650fe4ecd7178ddc273812a"
+  },
+  "propertyType": "APARTMENT",
+  "area": 200,
+  "price": 1600,
+  "city": "alexandria",
+  "district": "d1",
+  "description": "asdas",
+  "user": {
+    "$oid": "6650fd1c17ba107be4e13287"
+  },
+  "__v": 0
+}]

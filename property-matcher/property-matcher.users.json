@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6650fd0917ba107be4e13281"
+  },
+  "name": "client1",
+  "phone": "+201111111111",
+  "password": "$2b$10$gPjCQ.cSbLRaDGuc0vxh1etTtFRlWvDZIhFZIdZeSdv7Cm..1DKpK",
+  "role": "CLIENT",
+  "status": "ACTIVE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650fd0e17ba107be4e13283"
+  },
+  "name": "client2",
+  "phone": "+201111111112",
+  "password": "$2b$10$C4.6DQNfEsCQUQdns6Uqpem9NDd9jWTX/SQf7nKxc1UhNWvrPxmeu",
+  "role": "CLIENT",
+  "status": "ACTIVE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650fd1517ba107be4e13285"
+  },
+  "name": "admin",
+  "phone": "+201111111113",
+  "password": "$2b$10$1OR1ZnEKYnWi5mXSiZ8sAOicnh9jzFHsy71ZeVt/2t04zR3j1UB/q",
+  "role": "ADMIN",
+  "status": "ACTIVE",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650fd1c17ba107be4e13287"
+  },
+  "name": "agent",
+  "phone": "+201111111114",
+  "password": "$2b$10$Wdk1FGmat6/TV4XbqtOy8eF3VlyLmGlFZLQB7R0dkk7HB7iHB62JS",
+  "role": "AGENT",
+  "status": "ACTIVE",
+  "__v": 0
+}]
